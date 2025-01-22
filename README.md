@@ -197,19 +197,19 @@
 <div>
   <p align="center">
     <a href="https://github.com/lesleyzhao/Good_Old_Map">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Good_Old_Map&theme=tokyonight" alt="Good_Old_Map Repository" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesleyzhao&repo=Good_Old_Map&theme=tokyonight" alt="Good_Old_Map Repository" />
     </a>
     <a href="https://github.com/lesleyzhao/Stray_Cat_Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Stray_Cat_Website&theme=tokyonight" alt="Stray_Cat_Website Repository" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesleyzhao&repo=Stray_Cat_Website&theme=tokyonight" alt="Stray_Cat_Website Repository" />
     </a>
     <a href="https://github.com/lesleyzhao/Music_History_Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Music_History_Website&theme=tokyonight" alt="Music_History_Website Repository" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesleyzhao&repo=Music_History_Website&theme=tokyonight" alt="Music_History_Website Repository" />
     </a>
     <a href="https://github.com/lesleyzhao/NYU_Administrator_AdmissionPage">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=NYU_Administrator_AdmissionPage&theme=tokyonight" alt="NYU_Administrator_AdmissionPage Repository" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesleyzhao&repo=NYU_Administrator_AdmissionPage&theme=tokyonight" alt="NYU_Administrator_AdmissionPage Repository" />
     </a>
     <a href="https://github.com/lesleyzhao/NYU_Student_AdmissionPage">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=NYU_Student_AdmissionPage&theme=tokyonight" alt="NYU_Student_AdmissionPage Repository" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesleyzhao&repo=NYU_Student_AdmissionPage&theme=tokyonight" alt="NYU_Student_AdmissionPage Repository" />
     </a>
   </p>
 </div>

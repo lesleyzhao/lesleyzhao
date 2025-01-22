@@ -23,7 +23,7 @@
 
 - 🌟 I’m currently seeking exciting new **intern and new-grad job opportunities**. Here is [My LinkedIn Profile](https://www.linkedin.com/in/lesley-zhao/).
 
-- 🌐 Besides coding, I am a classical music lover and You can also check out [My Music History Website](https://lesleyzhao.github.io/Music_History_Website/docs/about.html).
+- 🌐 Besides coding, I am a classical music lover and you can also check out [My Music History Website](https://lesleyzhao.github.io/Music_History_Website/docs/about.html).
 
 
 

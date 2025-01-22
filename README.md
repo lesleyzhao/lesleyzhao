@@ -7,37 +7,26 @@
 
 <br><br>
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Nice to connect with you!
 
-🎓 I am a Graduate from the [College of Arts and Science](https://cas.nyu.edu/) at [New York University](https://www.nyu.edu/), where I earned my **B.S. in Computer Science and Data Science** with **magna cum laude honors** and am a proud member of **Phi Beta Kappa**.
+- 🎓 I am a Graduate from the [College of Arts and Science](https://cas.nyu.edu/) at [New York University](https://www.nyu.edu/), where I earned my **B.S. in Computer Science and Data Science** with **magna cum laude honors** and am a proud member of **Phi Beta Kappa**.
 
-💻 I love using **Software and Technology** to solve real-world problems and create impactful solutions.
+- 💻 I love using **Software and Technology** to solve real-world problems and create impactful solutions.
 
-🖥️ I am an active **competitive programmer**, participating on platforms like:
-- [Leetcode](https://leetcode.com/u/LesleyyyZ/)
+- 🖥️ I am an active **competitive programmer**, participating on platforms like:
+	- [Leetcode](https://leetcode.com/u/LesleyyyZ/)
 
-🧑‍🎓 I’m currently advancing my knowledge in **Computer Science** and **Software Development**, with a strong focus on building **scalable, high-performance applications**.
+- 🧑‍🎓 I’m currently advancing my knowledge in **Computer Science** and **Software Development**, with a strong focus on building **scalable, high-performance applications**.
 
-🧠 Always exploring and learning **new skills** to stay ahead in the tech world.
+- 🧠 Always exploring and learning **new skills** to stay ahead in the tech world.
 
-🌟 I’m currently seeking exciting new **intern and new-grad job opportunities**. Here is [MY RESUME](#).
+- 🌟 I’m currently seeking exciting new **intern and new-grad job opportunities**. Here is [MY RESUME](#).
 
-🌐 Besides coding, I am a classical music lover and You can also check out [My Music History Website](https://lesleyzhao.github.io/Music_History_Website/docs/about.html).
-
-
+- 🌐 Besides coding, I am a classical music lover and You can also check out [My Music History Website](https://lesleyzhao.github.io/Music_History_Website/docs/about.html).
 
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
-<p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
-</p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">

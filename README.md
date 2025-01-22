@@ -8,8 +8,9 @@
 <br><br>
 
 # 👋 Nice to connect with you!
+- 🎓 I am currently pursuing my **M.S.E. in Computer and Information Science** at the [University of Pennsylvania](https://www.seas.upenn.edu/), focusing on advanced topics in software engineering and data-driven solutions.
 
-- 🎓 I am a Graduate from the [College of Arts and Science](https://cas.nyu.edu/) at [New York University](https://www.nyu.edu/), where I earned my **B.S. in Computer Science and Data Science** with **magna cum laude honors** and am a proud member of **Phi Beta Kappa**.
+- 🎓 I am a Graduate from the [College of Arts and Science](https://cas.nyu.edu/) at [New York University](https://www.nyu.edu/), where I earned my **B.S. in Computer Science and Data Science** with **magna cum laude honors** (top 10% of the graduating class) and am a proud member of [Phi Beta Kappa](https://en.wikipedia.org/wiki/Phi_Beta_Kappa).
 
 - 💻 I love using **Software and Technology** to solve real-world problems and create impactful solutions.
 

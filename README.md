@@ -26,7 +26,7 @@
 - 🌐 Besides coding, I am a classical music lover and you can also check out [My Music History Website](https://lesleyzhao.github.io/Music_History_Website/docs/about.html).
 
 
-br
+<br>
 # 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages

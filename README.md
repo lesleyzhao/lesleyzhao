@@ -170,51 +170,5 @@
 <br> 
 
 
-# 📊 Github Stats
-
-
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
- <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="lesleyzhao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lesleyzhao&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="YOUR_USERNAME's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=lesleyzhao&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="230px"/>
-    </a>
-</p>
-
-</details>
-
-
-
-
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-<div>
-  <p align="center">
-    <a href="https://github.com/lesleyzhao/Good_Old_Map">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesleyzhao&repo=Good_Old_Map&theme=tokyonight" alt="Good_Old_Map Repository" />
-    </a>
-    <a href="https://github.com/lesleyzhao/Stray_Cat_Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesleyzhao&repo=Stray_Cat_Website&theme=tokyonight" alt="Stray_Cat_Website Repository" />
-    </a>
-    <a href="https://github.com/lesleyzhao/Music_History_Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesleyzhao&repo=Music_History_Website&theme=tokyonight" alt="Music_History_Website Repository" />
-    </a>
-    <a href="https://github.com/lesleyzhao/NYU_Administrator_AdmissionPage">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesleyzhao&repo=NYU_Administrator_AdmissionPage&theme=tokyonight" alt="NYU_Administrator_AdmissionPage Repository" />
-    </a>
-    <a href="https://github.com/lesleyzhao/NYU_Student_AdmissionPage">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesleyzhao&repo=NYU_Student_AdmissionPage&theme=tokyonight" alt="NYU_Student_AdmissionPage Repository" />
-    </a>
-  </p>
-</div>
-
-</details>
-
 </br></br>
 	
